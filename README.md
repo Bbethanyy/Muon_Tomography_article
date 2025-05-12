@@ -1,7 +1,7 @@
 # Muon Tomography article
 A research article I wrote after an international science exchange organized by Fundació La Pedrera
 ## 📄 Abstract
-This paper presents a conceptual design for a muon tomography system using scintillator detectors. We highlight its potential to replace traditional archaeological methods for detecting underground structures.
+This paper presents a conceptual design for a muon tomography system using scintillator detectors. We highlight its potential to replace traditional archaeological methods for detecting underground structures. The applications and studies are centered on the Pyramids of Giza (Egypt).
 
 ## 📥 Full Article
 [👉 Read Here](./BethanyQuintero_ScientificPaper.pdf)
